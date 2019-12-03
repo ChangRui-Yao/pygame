@@ -1,0 +1,15 @@
+提高颜值
+set_mode(resolution=(0,0),flags=0,depth=0)  ---->Surface
+
+用set_mode   会生成一个Surface    他有三个参数
+
+1指定界面的大小 如果你什么都不给  pygame他会根据当前屏幕分辨率来创建一个窗口
+
+2flags 扩展选项  什么
+	FULLSCREEN		全屏模式 	
+	DOUBLEBUF		双缓冲模式 
+	HWSURFACE		硬件加速支持
+	OPENGL		使用OpenGL渲染
+	RESIZABLE		使得窗口可以调整大小
+	NOFRAME		是的窗口没有按钮和控制边框
+ 

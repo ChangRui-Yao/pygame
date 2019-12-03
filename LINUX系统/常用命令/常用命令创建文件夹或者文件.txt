@@ -1,0 +1,23 @@
+mkdir
+		创建一个目录
+
+		mkdir python20
+
+			mkdir -p ./a/b/c/d		递归创建目录-p是一个选项
+
+
+
+touch
+		创建一个新的文件
+		touch 1.txt
+			多个文件窗户件用空格隔开
+
+
+
+gedit		对文件进行编辑
+		gedit 1.txt
+			多个文件用空格隔开
+
+
+		gedit并不是所有的发行版都支持
+	

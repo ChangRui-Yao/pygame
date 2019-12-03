@@ -1,0 +1,24 @@
+1为何要学习终端命令格式
+	通过终端可以大大提升操作系统的操控效率
+
+2	命令格式
+	command [-options] [parameter]
+	command 	命令名
+	[-options]	选项 可以对命令进行控制 也可以用省略
+				选项前面有-
+	parameter	传给命令的参数	可以是多个也可以是零个 或者多个
+		
+			[]代表可有可无
+3帮助
+	1	man ls	是manual的缩写  是Linux提供的一个手册
+
+		使用man时的操作键
+		空格	一次切换一屏幕
+		ENTER	一次滚动手册页的一行
+		b	回滚一屏
+		f	前滚一屏幕
+		q	退出
+		/word	搜索word字符串
+
+
+	2	ls -- help

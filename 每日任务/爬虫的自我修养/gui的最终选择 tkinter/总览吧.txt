@@ -1,0 +1,34 @@
+绘制单行文本   用Label组件		gui的最终选择.py
+
+多行选项   用Listbox
+
+输入框    用Entry			密码输入框.py
+
+按钮    用Button				按钮详解.py
+		
+单选   Radiobutton			翻牌子.py
+
+多选  Checkbutton			翻牌子.py
+
+有多个组件  可以使用Frame  或者LabelFrame 把他们框起来
+
+
+滚动条  添加一个Scrollbar		终极多选择值滚动条.py
+
+
+提供一个范围音量  Scale                    制作一个滑动的变大缩小声音.py
+
+
+相当于文本编辑  以及插入需多的组件and图片and超链接		Text		Text组件.py
+
+Button-1>  鼠标左键
+<Button-2>   鼠标中间键（滚轮）
+<Button-3>  鼠标右键
+<Double-Button-1>   双击鼠标左键
+<Double-Button-3>   双击鼠标右键
+<Triple-Button-1>   三击鼠标左键
+<Triple-Button-3>   三击鼠标右键
+鼠标移动事件
+<B1-Motion>   鼠标左键滑动
+<B2-Motion>   鼠标滚轮移动
+<B3-Motion>   鼠标右键滑动

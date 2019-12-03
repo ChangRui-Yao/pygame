@@ -1,0 +1,14 @@
+1 操作系统 operating system   简称os
+
+
+	·是管理计算机硬件与软件资源的计算机程序
+	·任何其他软件都必须在操作系统的支持下才能运行
+
+
+2常见的操作系统
+	windows xp   
+	windows7 
+	windows10 
+	linux   
+	app mac os x
+	ios

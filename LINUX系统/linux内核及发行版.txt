@@ -1,0 +1,35 @@
+linux  内核及发行版
+内核是系统的心脏，负责管理系统的进程。内存，设备驱动程序，文件和网络系统，、
+决定这系统的性能和稳定性
+
+
+2内核又分为两种版本
+	·稳定版
+		具有工业级强度
+
+
+
+	·开发板
+		由于要实验各种解决方案  所以变化很快
+
+
+
+3llinux 发行版
+
+	通常包含了包括办公桌面，办公套件，媒体播放器，数据库
+	Linux发行版本 = Linux内核 + 一套软件 + 使用手册
+
+
+常见的发行版本
+		ubuntu
+		redhat
+		fedora
+		opensuse
+		linux mint
+		debian
+		manjaro
+		mageia
+		centos
+		arch
+
+常见的发行版   centos   redhat ubuntu
